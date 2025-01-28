@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+    background-color: #e3e3e9;
+    color: #4a4a4a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.invitation{
+    background-color: #fff;
+    border: 2px solid #f15;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 500px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h1{
+    color: #8b0000;
+    font-size: 2rem;
+}
+.names{
+    font-size: 2.5rem;
+    color: #d2691e;
+    margin: 10px 0;
+}
+.detail p{
+    margin: 10px 0;
+}
+.detail strong{
+    color: #1e90ff;
+}
+.reserve{
+    margin: 20px 0;
+    font-style: italic;
+}
+.reserve a{
+    color:#1e90ff ;
+    text-decoration: none;
+}
+footer{
+    margin-top: 20px;
+    font: size 0.9rem; 
+}
+footer a{
+    color:#8b0000 ;
+    text-decoration: underline;
+
+}
+footer p{
+    margin-top: 10px;
+}
+
+
+
+
+

@@ -1,0 +1,221 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.navbar{
+   background-color: rgba(216, 112, 147, 0.815);
+   color: hwb(0 97% 3%);
+   margin-left: 120px;
+   font-size:20px;
+   font-family: Arial, Helvetica,;
+   margin-top: 20px;
+   width: 80%;
+   height: auto; 
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   border-radius: 30px;
+   position: fixed;
+}
+a{
+   color: rgb(100, 4, 31);
+   text-decoration: none;
+}
+.logo{
+   font-family: cursive;
+   font-size: 25px;
+   font-weight: 700;
+   padding: 15px;
+}
+.navbar ul li{
+   list-style: none;
+   display: inline-flex;
+}
+.navbar ul li a{
+   font-size:23px ;
+   padding: 15px;
+
+}
+ .navbar ul li a:hover{
+   color: #fff;
+  
+ }
+ .home{
+   background-color: rgb(254, 116, 155);
+ }
+ .text{
+   background-image: url(https://cdn0.weddingwire.in/article/0695/3_2/960/jpeg/95960-colour-coordinated-outfits-samaira-sandhu-divine-mantra-pink.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 100%;
+   height: 700px;
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   flex-wrap: wrap;
+   border-radius: 0 0 500px 0;
+}
+.btn-1{
+    width: 100%;
+    font-size: 30px;
+    text-align: left;
+    font-style: oblique;
+    padding-top: 100px;
+    padding-left: 30px;
+}
+h1{
+   color: hsl(336, 96%, 37%);
+   text-shadow: 0 3px 10px  hsl(336, 99%, 38%) ;
+}
+.date{
+   color: #fff;
+   background-color: #f15;
+   padding: 5px;
+   width: 20%;
+   border-radius: 40px 0 40px 0;
+   transition-duration: .5s;
+}
+.text .date:hover{
+   background-color: #fff;
+   color: #f15;
+}
+.mates{
+   background-color: #fff;
+   margin-top: 10px;
+   border: 4px solid rgba(216, 112, 147, 0.815); 
+   border-radius: 2rem;
+}
+.btn-2{
+   background-attachment: fixed;
+   font-size: 20px;
+   font-family: cursive;
+   text-align: center;
+   width: 100%;
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   flex-wrap: wrap;
+   margin-top: 20px;
+   border-radius: 8px;
+}
+ h2{
+   background-color: rgba(192, 192, 192, 0.323);
+   color: rgba(0, 0, 0, 0.941);
+   font-size: 30px;
+   font-style: oblique;
+   text-align: center;
+   width:95%;
+   height: auto;
+   border-radius: 30px;
+}
+.img-1 img{
+   width: 35vh;
+   margin-top: 50px;
+   padding:10px;
+   border-radius: 50px;
+   border-top: 10px solid #f15;
+   border-bottom: 10px solid #f15;
+   margin-bottom: 10px;
+}
+.img-2 img{
+   width: 37vh;
+   margin-top: 50px;
+   padding:10px;
+   border-radius: 50px;
+   border-top: 10px solid #f15;
+   border-bottom: 10px solid #f15;
+   margin-bottom: 10px;
+}
+.btn-2 p{
+   color: rgb(134, 2, 40);
+   text-shadow: 0 3px 10px  hsl(336, 99%, 38%) ;
+   font-size:30px;
+   margin-bottom: 10px;
+   padding-left: 20px; 
+}
+.Details{
+   background-image: url(https://eventhousekenya.com/wp-content/uploads/2021/03/Nimit-Decor-1-0031.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   width:100%;
+   height: 600px;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   border-radius: 80px;
+   margin-top: 10px;
+}
+.detail h2{ 
+   padding-left: 500px;
+   margin-top:5px;
+   font-size: 30px;
+   font-family: cursive;
+   color: rgb(164, 3, 49);
+   text-shadow: 0 3px 10px  hsl(336, 95%, 67%) ;
+}
+.venue {
+   background-color: #fa67ac44;
+   border: 2px solid #fa67ac44 ;
+   border-radius: 5px;
+   height: 50%;
+   font-size: 40px;
+   margin-top: 180px;
+   text-align: left;
+   list-style-type: none;
+
+}
+.section{
+   background-color: rgba(216, 112, 147, 0.815);
+   color: #fbf9f9;
+   font-size:25px;
+   text-align: center;
+   text-decoration: none;
+   padding: 25px; 
+   margin-top: 10px;
+   border-radius: 50px;
+}
+.list{
+   list-style-type: none;
+   display: flex;
+   justify-content: center;
+   padding: 5px;
+}
+.list li {
+   margin: 10px 10px;
+}
+.list li a img{
+   width: 40px;
+   height: auto;
+}
+
+   
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
